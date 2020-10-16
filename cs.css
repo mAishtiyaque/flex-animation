@@ -78,11 +78,9 @@ img:hover{
     font-size: 55%;
     }
     .heading-secondary{
-      font-size: 18px;
+      font-size: 16px;
     }
-    .heading-secondary{
-      font-size: 2px;
-    }
+    
   .column {
     flex: 45%;
     max-width: 45%;
